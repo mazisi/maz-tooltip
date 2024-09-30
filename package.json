@@ -1,11 +1,11 @@
 {
   "name": "maz-tooltip",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": false,
   "type": "module",
   "license": "MIT",
   "author": "maz-ui",
-  "homepage": "https://github.com/maz-ui/maz-tooltip",
+  "homepage": "https://github.com/mazisi/maz-tooltip",
   "exports": {
     ".": {
       "import": "./dist/index.mjs",
